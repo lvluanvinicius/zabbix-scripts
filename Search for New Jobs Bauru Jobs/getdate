@@ -1,0 +1,4 @@
+#!/bin/bash
+
+
+python3 /usr/lib/zabbix/externalscripts/get_dates.py
