@@ -1,4 +1,4 @@
-# zabbix-scripts
+# Zabbix Scripts
 
 Zabbix Scripts, é um repositório, onde são armazenados todos os scripts criados para auxiliar a colheita de dados efetuadas pelo Zabbix.  
 
